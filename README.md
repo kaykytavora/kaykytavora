@@ -6,7 +6,11 @@
 
 </div>
 
-🤖 KAYKY SYSTEM
+---
+
+## 🤖 KAYKY SYSTEM
+
+```bash
 ╭────────────────────────────────╮
 │        KAYKY SYSTEM v1.0       │
 ╰────────────────────────────────╯
@@ -24,7 +28,13 @@ Inicializando ambiente...
 ✔ Aprendizado contínuo
 
 STATUS: ONLINE 🚀
-👨‍💻 Sobre mim
+```
+
+---
+
+## 👨‍💻 Sobre mim
+
+```javascript
 const Kayky = {
   nome: "Kayky Pereira Távora",
 
@@ -75,23 +85,41 @@ const Kayky = {
     "Supabase"
   ]
 }
-💙 Minha trajetória
-Meu interesse por tecnologia começou cedo, mas foi no curso técnico em Desenvolvimento de Sistemas na ETEC Sapopemba que iniciei de fato minha trajetória na área.
-Foi nesse período que tive meus primeiros contatos mais aprofundados com programação, lógica, desenvolvimento de software e construção de aplicações. Também foi onde percebi que queria seguir profissionalmente com desenvolvimento.
-Hoje curso Ciência da Computação na UNINOVE e atuo profissionalmente como Desenvolvedor Front-end, trabalhando com desenvolvimento, evolução e sustentação de aplicações voltadas para operações financeiras.
-No dia a dia, transformo regras de negócio em interfaces utilizando React.js, JavaScript e TypeScript, além de trabalhar com integração de APIs REST, gerenciamento de estado, formulários complexos, grandes volumes de dados, testes automatizados e controle de acesso por perfis e permissões.
-Além da experiência profissional, desenvolvo projetos próprios para explorar novas tecnologias, arquitetura, experiência do usuário e soluções para problemas reais.
-"Construindo produtos digitais com código, contexto e propósito."
+```
 
-⚡ Tecnologias
+---
+
+## 💙 Minha trajetória
+
+Meu interesse por tecnologia começou cedo, mas foi no curso técnico em **Desenvolvimento de Sistemas na ETEC Sapopemba** que iniciei de fato minha trajetória na área.
+
+Foi nesse período que tive meus primeiros contatos mais aprofundados com programação, lógica, desenvolvimento de software e construção de aplicações. Também foi onde percebi que queria seguir profissionalmente com desenvolvimento.
+
+Hoje curso **Ciência da Computação na UNINOVE** e atuo profissionalmente como **Desenvolvedor Front-end**, trabalhando com desenvolvimento, evolução e sustentação de aplicações voltadas para operações financeiras.
+
+No dia a dia, transformo regras de negócio em interfaces utilizando **React.js, JavaScript e TypeScript**, além de trabalhar com integração de **APIs REST**, gerenciamento de estado, formulários complexos, grandes volumes de dados, testes automatizados e controle de acesso por perfis e permissões.
+
+Além da experiência profissional, desenvolvo projetos próprios para explorar novas tecnologias, arquitetura, experiência do usuário e soluções para problemas reais.
+
+> **"Construindo produtos digitais com código, contexto e propósito."**
+
+---
+
+## ⚡ Tecnologias
+
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,sass,tailwind,vite,nodejs,supabase,postgres,git,github,jest,figma,vscode&perline=9"/>
 
 </div>
 
-🧠 Stack e ferramentas
-Front-end
+---
+
+## 🧠 Stack e ferramentas
+
+### Front-end
+
+```text
 React.js
 TypeScript
 JavaScript
@@ -105,7 +133,11 @@ Styled Components
 Material UI
 shadcn/ui
 Vite
-Estado, arquitetura e integração
+```
+
+### Estado, arquitetura e integração
+
+```text
 Redux Toolkit
 Redux Thunk
 React Context
@@ -115,12 +147,20 @@ Axios
 APIs REST
 Webpack Module Federation
 Micro Front-end
-Dados e Back-end
+```
+
+### Dados e Back-end
+
+```text
 Supabase
 PostgreSQL
 SQL
 Node.js
-Testes e workflow
+```
+
+### Testes e workflow
+
+```text
 Jest
 React Testing Library
 Robot Framework
@@ -131,9 +171,17 @@ GitFlow
 Jira
 Scrum
 Kanban
-💼 Experiência profissional
-Desenvolvedor Front-end — Afinz
-nov. 2025 — atual
+```
+
+---
+
+## 💼 Experiência profissional
+
+### Desenvolvedor Front-end — Afinz
+
+**nov. 2025 — atual**
+
+```text
 💻 React.js, JavaScript e TypeScript
 🔗 Integração com APIs REST via Axios
 🧩 Componentização e reutilização de interfaces
@@ -144,8 +192,15 @@ nov. 2025 — atual
 🤖 Robot Framework e BDD
 🌿 Git e GitFlow
 📌 Jira, Scrum e Kanban
-Atuo no desenvolvimento, evolução e sustentação de aplicações web voltadas para operações financeiras e recebíveis, com foco em estabilidade, performance, qualidade de código e experiência do usuário.
-🎨 Do problema à solução
+```
+
+Atuo no desenvolvimento, evolução e sustentação de aplicações web voltadas para **operações financeiras e recebíveis**, com foco em estabilidade, performance, qualidade de código e experiência do usuário.
+
+---
+
+## 🎨 Do problema à solução
+
+```text
 📌 REGRA DE NEGÓCIO
         ↓
 🧠 ENTENDIMENTO DO PROBLEMA
@@ -163,44 +218,80 @@ Atuo no desenvolvimento, evolução e sustentação de aplicações web voltadas
 🚀 ENTREGA
         ↓
 🔄 EVOLUÇÃO CONTÍNUA
-🚀 Projetos
-🚀 Projeto	💡 Sobre	🛠️ Stack
-🚗 UAU Veículos	Plataforma para gestão e divulgação de veículos, com vitrine pública e painel administrativo	React, TypeScript, Vite, Tailwind CSS, Supabase
-💰 Aevos Orbit	Aplicação de gestão financeira com receitas, despesas, metas e dashboard mensal	React, TypeScript, Supabase
-🏋️ GymLeague	PWA de treinos com gamificação, conquistas e acompanhamento de progresso	React, TypeScript, Zustand, Supabase
-📅 Agendem	Sistema de agendamentos com perfis de Cliente, Funcionário e Administrador	React, TypeScript, Supabase
+```
 
+---
 
-🎓 Formação
-Ciência da Computação — UNINOVE
-6º período • conclusão prevista para dezembro de 2027
+## 🚀 Projetos
+
+| 🚀 Projeto | 💡 Sobre | 🛠️ Stack |
+|---|---|---|
+| 🚗 **UAU Veículos** | Plataforma para gestão e divulgação de veículos, com vitrine pública e painel administrativo | React, TypeScript, Vite, Tailwind CSS, Supabase |
+| 💰 **Aevos Orbit** | Aplicação de gestão financeira com receitas, despesas, metas e dashboard mensal | React, TypeScript, Supabase |
+| 🏋️ **GymLeague** | PWA de treinos com gamificação, conquistas e acompanhamento de progresso | React, TypeScript, Zustand, Supabase |
+| 📅 **Agendem** | Sistema de agendamentos com perfis de Cliente, Funcionário e Administrador | React, TypeScript, Supabase |
+
+---
+
+## 🎓 Formação
+
+### Ciência da Computação — UNINOVE
+
+**6º período • conclusão prevista para dezembro de 2027**
+
 Sempre gostei muito da área de tecnologia, então a faculdade tem sido bem próxima do que eu imaginava.
+
 O que mais gosto é entender como softwares podem ser utilizados para facilitar o dia a dia, melhorar processos e resolver problemas reais. A graduação também tem ampliado minha visão sobre diferentes áreas da computação e fortalecido minha base técnica.
-Técnico em Desenvolvimento de Sistemas — ETEC Sapopemba
-Concluído em 2022
+
+### Técnico em Desenvolvimento de Sistemas — ETEC Sapopemba
+
+**Concluído em 2022**
+
 Foi onde realmente comecei minha trajetória na área de tecnologia.
+
 No curso técnico tive meus primeiros contatos mais aprofundados com programação, lógica, desenvolvimento de software e construção de aplicações, além de entender melhor como um sistema evolui da ideia até a implementação.
-📚 Cursos e estudos
+
+---
+
+## 📚 Cursos e estudos
+
+```bash
 > carregando trilha de evolução...
 
 [██████████] React.js
+
 [██████████] TypeScript
+
 [█████████░] JavaScript
+
 [████████░░] Arquitetura Front-end
+
 [████████░░] Testes automatizados
+
 [███████░░░] Angular
+
 [███████░░░] Micro Front-end
+
 [███████░░░] Performance
+
 [██████░░░░] IA aplicada ao desenvolvimento
 
 STATUS:
 Aprender → Aplicar → Testar → Evoluir
-Cursos
-- Desenvolvimento Full Stack — OneBitCode — 375h — em andamento
-- Imersão Front-End — Alura
-- IA para Devs — Claude Code, MCP, Skills, Hooks, Rules e Codex — 20h
-- Figma: Design de Interfaces do Zero ao Profissional — 16h
-🎯 Interesses profissionais
+```
+
+### Cursos
+
+- **Desenvolvimento Full Stack** — OneBitCode — 375h — em andamento
+- **Imersão Front-End** — Alura
+- **IA para Devs** — Claude Code, MCP, Skills, Hooks, Rules e Codex — 20h
+- **Figma: Design de Interfaces do Zero ao Profissional** — 16h
+
+---
+
+## 🎯 Interesses profissionais
+
+```text
 ⚛️ React e ecossistema Front-end
 🟦 TypeScript
 🅰️ Angular
@@ -211,7 +302,12 @@ Cursos
 🏗️ Micro front-ends
 🤖 Inteligência Artificial aplicada ao desenvolvimento
 📦 Produtos digitais
-📊 GitHub
+```
+
+---
+
+## 📊 GitHub
+
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaykytavora&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
@@ -220,11 +316,14 @@ Cursos
 
 </div>
 
-🌎 Vamos nos conectar?
+---
+
+## 🌎 Vamos nos conectar?
+
 <div align="center">
 
 <a href="https://github.com/kaykytavora">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/kaykypereiratavora">
@@ -241,9 +340,12 @@ Cursos
 
 </div>
 
+---
+
 <div align="center">
 
-💙 "Construindo aplicações que unem tecnologia, experiência do usuário e resolução de problemas reais."
+### 💙 "Construindo aplicações que unem tecnologia, experiência do usuário e resolução de problemas reais."
+
 <img src="https://komarev.com/ghpvc/?username=kaykytavora&style=for-the-badge&color=2563EB"/>
 
 </div>
