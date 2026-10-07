@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050505,50:2563eb,100:38bdf8&text=KAYKY%20TÁVORA&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050505,50:2563eb,100:38bdf8&text=KAYKY%20TAVORA&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=60A5FA&center=true&vCenter=true&width=900&lines=INICIANDO+SISTEMA...;DESENVOLVEDOR+FRONT-END;REACT+%7C+TYPESCRIPT+%7C+JAVASCRIPT;APIs+%7C+TESTES+%7C+ARQUITETURA+FRONT-END;TRANSFORMANDO+REGRAS+DE+NEGÓCIO+EM+PRODUTOS"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=60A5FA&center=true&vCenter=true&width=900&lines=INICIANDO+SISTEMA...;DESENVOLVEDOR+FRONT-END;REACT+%7C+TYPESCRIPT+%7C+JAVASCRIPT;APIs+%7C+TESTES+%7C+ARQUITETURA+FRONT-END;TRANSFORMANDO+REGRAS+DE+NEGOCIO+EM+PRODUTOS"/>
 
 </div>
 
@@ -26,7 +26,6 @@ Inicializando ambiente...
 STATUS: ONLINE 🚀
 👨‍💻 Sobre mim
 const Kayky = {
-
   nome: "Kayky Pereira Távora",
 
   função: "Desenvolvedor Front-end",
@@ -75,7 +74,6 @@ const Kayky = {
     "Vite",
     "Supabase"
   ]
-
 }
 💙 Minha trajetória
 Meu interesse por tecnologia começou cedo, mas foi no curso técnico em Desenvolvimento de Sistemas na ETEC Sapopemba que iniciei de fato minha trajetória na área.
@@ -148,7 +146,6 @@ nov. 2025 — atual
 📌 Jira, Scrum e Kanban
 Atuo no desenvolvimento, evolução e sustentação de aplicações web voltadas para operações financeiras e recebíveis, com foco em estabilidade, performance, qualidade de código e experiência do usuário.
 🎨 Do problema à solução
-Gosto de entender o contexto antes de escrever código.
 📌 REGRA DE NEGÓCIO
         ↓
 🧠 ENTENDIMENTO DO PROBLEMA
@@ -174,40 +171,6 @@ Gosto de entender o contexto antes de escrever código.
 📅 Agendem	Sistema de agendamentos com perfis de Cliente, Funcionário e Administrador	React, TypeScript, Supabase
 
 
-🔎 Destaques dos projetos
-🚗 UAU Veículos
-✔ Vitrine pública
-✔ Painel administrativo
-✔ Controle de estoque
-✔ Vendas e consignações
-✔ Métricas
-✔ Autenticação
-✔ Upload de imagens
-✔ Integração com APIs externas
-✔ Interface responsiva
-💰 Aevos Orbit
-✔ Receitas e despesas
-✔ Metas financeiras
-✔ Planejamento mensal
-✔ Dashboard
-✔ Persistência de dados
-✔ Organização financeira
-🏋️ GymLeague
-✔ PWA
-✔ Gerenciamento de treinos
-✔ Conquistas
-✔ Gamificação
-✔ Acompanhamento de progresso
-✔ Estado com Zustand
-✔ Persistência com Supabase
-📅 Agendem
-✔ Autenticação
-✔ Controle por perfis
-✔ Gestão de usuários
-✔ Gestão de serviços
-✔ Gestão de profissionais
-✔ Controle de horários
-✔ Agendamentos
 🎓 Formação
 Ciência da Computação — UNINOVE
 6º período • conclusão prevista para dezembro de 2027
@@ -221,21 +184,13 @@ No curso técnico tive meus primeiros contatos mais aprofundados com programaç�
 > carregando trilha de evolução...
 
 [██████████] React.js
-
 [██████████] TypeScript
-
 [█████████░] JavaScript
-
 [████████░░] Arquitetura Front-end
-
 [████████░░] Testes automatizados
-
 [███████░░░] Angular
-
 [███████░░░] Micro Front-end
-
 [███████░░░] Performance
-
 [██████░░░░] IA aplicada ao desenvolvimento
 
 STATUS:
